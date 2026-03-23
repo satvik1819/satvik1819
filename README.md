@@ -1,47 +1,69 @@
+<!-- ================================================================
+     NAGA SATHVIK — GitHub Profile README
+     Palette: Midnight Navy · Electric Blue · Sky · Steel · Ice White
+================================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Naga%20Sathvik&fontSize=60&fontColor=F5C842&fontAlignY=38&desc=AI%20Systems%20Builder%20%E2%80%A2%20Final%20Year%20Engineer&descSize=16&descAlignY=58&descColor=A0A0B0&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0A0F2E,100:0D1B4B&height=240&section=header&text=Naga%20Sathvik&fontSize=56&fontColor=60A5FA&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20GenAI%20Builder&descSize=15&descAlignY=65&descColor=BAE6FD&stroke=3B82F6&strokeWidth=1&animation=fadeIn" width="100%"/>
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=F5C842&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+think+%F0%9F%A7%A0;LLMs+%C2%B7+RAG+%C2%B7+Vector+Search+%C2%B7+Agents;Recommendation+Engines+%2B+Conversational+AI;Breaking+systems+to+rebuild+them+better+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sathvikvedantham-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvikvedantham)
-[![Gmail](https://img.shields.io/badge/Gmail-nagasathvik19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nagasathvik19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-1c1c1e?style=flat-square&logo=github&logoColor=white)](https://github.com/NagaSathvik)
-![Profile Views](https://komarev.com/ghpvc/?username=NagaSathvik&color=F5C842&style=flat-square&label=Profile+Views)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=AI+Engineer+%7C+GenAI+Builder+%F0%9F%A4%96;RAG+Systems+%C2%B7+LLMs+%C2%B7+Multi-Agent+Workflows;ML+Pipelines+%E2%86%92+Production+APIs+%E2%86%92+Real+Impact;Data+Science+Intern+%40+Pickl.ai+%F0%9F%92%BC;Runner-up+%40+Cederstrom+Hackathon+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sathvikvedantham-60A5FA?style=flat-square&logo=linkedin&logoColor=0A0F2E)](https://www.linkedin.com/in/sathvikvedantham/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-nagasathvik19%40gmail.com-38BDF8?style=flat-square&logo=gmail&logoColor=0A0F2E)](mailto:nagasathvik19@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-satvik1819-1D4ED8?style=flat-square&logo=github&logoColor=E0F2FE)](https://github.com/satvik1819)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=satvik1819&color=60a5fa&style=flat-square&label=Profile+Views)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 ## ◈ About Me
 
-```yaml
-# naga_sathvik.yaml
+```python
+class NagaSathvik:
+    name         = "Lakshmi Narasimha Naga Sathvik"
+    university   = "Lovely Professional University, Punjab"
+    degree       = "B.Tech CSE (Hons.) — Data Science & Data Engineering"
+    role         = "Data Science Intern @ Pickl.ai"
 
-identity:
-  name       : "Naga Sathvik Vedantham"
-  status     : "Final Year B.E. — Computer Science & Engineering"
-  based_in   : "India"
-  open_to    : ["AI/ML Roles", "SDE Roles", "Research Internships"]
+    focus        = ["GenAI & RAG Systems", "ML Pipelines",
+                    "Backend Engineering", "Data Analytics & BI"]
 
-focus_areas:
-  - "Generative AI  —  LLMs, RAG, Prompt Engineering, Agents"
-  - "Recommendation Systems  —  Hybrid Filtering, Semantic Search"
-  - "Backend Engineering  —  APIs, Scalable System Design"
-  - "Full-Stack Development  —  end-to-end product delivery"
+    building_now = "AI-Powered Shopping Assistant (RAG + LLMs + Hybrid Rec)"
+    open_to      = ["AI/ML Roles", "Data Science", "Backend Engineering"]
 
-currently:
-  building   : "AI-Powered Personalized Shopping Assistant Chatbot"
-  learning   : ["Advanced System Design", "LLM Evaluation", "MCP Tool Use"]
-
-mindset      : "I don't just write code — I build systems that think."
+    achievement  = "🏆 Runner-up — Cederstrom Hackathon (100+ teams, 24hrs)"
+    quote        = "Building intelligent systems, not just code."
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## ◈ Currently Working On
+
+<br/>
+
+> 🔬 &nbsp;**Advanced RAG pipelines** with structured retrieval and semantic chunking
+
+> 🤖 &nbsp;**Multi-agent AI systems** with planning, memory, and reasoning workflows
+
+> 🛒 &nbsp;**AI-powered shopping chatbot** — hybrid recommendation + review summarization
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -49,113 +71,132 @@ mindset      : "I don't just write code — I build systems that think."
 
 <div align="center">
 
-**Languages**
+**⬡ &nbsp;Languages**
 
-![Python](https://img.shields.io/badge/Python-1c1c1e?style=for-the-badge&logo=python&logoColor=F5C842)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1e?style=for-the-badge&logo=javascript&logoColor=F5C842)
-![C++](https://img.shields.io/badge/C++-1c1c1e?style=for-the-badge&logo=cplusplus&logoColor=F5C842)
+![Python](https://img.shields.io/badge/Python-0A0F2E?style=for-the-badge&logo=python&logoColor=60A5FA)
+![C++](https://img.shields.io/badge/C++-0A0F2E?style=for-the-badge&logo=cplusplus&logoColor=38BDF8)
+![Java](https://img.shields.io/badge/Java-0A0F2E?style=for-the-badge&logo=openjdk&logoColor=7DD3FC)
+![SQL](https://img.shields.io/badge/SQL-0A0F2E?style=for-the-badge&logo=postgresql&logoColor=BAE6FD)
+![HTML](https://img.shields.io/badge/HTML-0A0F2E?style=for-the-badge&logo=html5&logoColor=93C5FD)
 
-**AI · ML · Generative AI**
+<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1c1c1e?style=for-the-badge&logo=chainlink&logoColor=F5C842)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-1c1c1e?style=for-the-badge&logo=openai&logoColor=F5C842)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1c1c1e?style=for-the-badge&logo=huggingface&logoColor=F5C842)
-![CrewAI](https://img.shields.io/badge/CrewAI-1c1c1e?style=for-the-badge&logo=robot&logoColor=F5C842)
-![AutoGen](https://img.shields.io/badge/AutoGen-1c1c1e?style=for-the-badge&logo=microsoftazure&logoColor=F5C842)
+**⬡ &nbsp;AI · ML · GenAI**
 
-**Infrastructure · Tools**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0A0F2E?style=for-the-badge&logo=scikitlearn&logoColor=60A5FA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0F2E?style=for-the-badge&logo=tensorflow&logoColor=38BDF8)
+![NumPy](https://img.shields.io/badge/NumPy-0A0F2E?style=for-the-badge&logo=numpy&logoColor=7DD3FC)
+![Pandas](https://img.shields.io/badge/Pandas-0A0F2E?style=for-the-badge&logo=pandas&logoColor=BAE6FD)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0F2E?style=for-the-badge&logo=plotly&logoColor=93C5FD)
+![Seaborn](https://img.shields.io/badge/Seaborn-0A0F2E?style=for-the-badge&logo=python&logoColor=60A5FA)
+![Gradio](https://img.shields.io/badge/Gradio-0A0F2E?style=for-the-badge&logo=gradio&logoColor=38BDF8)
+![Streamlit](https://img.shields.io/badge/Streamlit-0A0F2E?style=for-the-badge&logo=streamlit&logoColor=7DD3FC)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1c1c1e?style=for-the-badge&logo=fastapi&logoColor=F5C842)
-![Vector DB](https://img.shields.io/badge/Vector_DB-1c1c1e?style=for-the-badge&logo=pinecone&logoColor=F5C842)
-![Docker](https://img.shields.io/badge/Docker-1c1c1e?style=for-the-badge&logo=docker&logoColor=F5C842)
-![Git](https://img.shields.io/badge/Git-1c1c1e?style=for-the-badge&logo=git&logoColor=F5C842)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1c1c1e?style=for-the-badge&logo=postman&logoColor=F5C842)
+<br/>
+
+**⬡ &nbsp;Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0F2E?style=for-the-badge&logo=fastapi&logoColor=60A5FA)
+![Pydantic](https://img.shields.io/badge/Pydantic-0A0F2E?style=for-the-badge&logo=python&logoColor=38BDF8)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0A0F2E?style=for-the-badge&logo=python&logoColor=93C5FD)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A0F2E?style=for-the-badge&logo=postman&logoColor=BAE6FD)
+
+<br/>
+
+**⬡ &nbsp;Data · BI · Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-0A0F2E?style=for-the-badge&logo=mysql&logoColor=60A5FA)
+![BigQuery](https://img.shields.io/badge/BigQuery-0A0F2E?style=for-the-badge&logo=googlebigquery&logoColor=38BDF8)
+![Power BI](https://img.shields.io/badge/Power_BI-0A0F2E?style=for-the-badge&logo=powerbi&logoColor=7DD3FC)
+![Tableau](https://img.shields.io/badge/Tableau-0A0F2E?style=for-the-badge&logo=tableau&logoColor=BAE6FD)
+![Excel](https://img.shields.io/badge/Excel-0A0F2E?style=for-the-badge&logo=microsoftexcel&logoColor=93C5FD)
+![AWS](https://img.shields.io/badge/AWS-0A0F2E?style=for-the-badge&logo=amazonaws&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-0A0F2E?style=for-the-badge&logo=git&logoColor=38BDF8)
+![Jupyter](https://img.shields.io/badge/Jupyter-0A0F2E?style=for-the-badge&logo=jupyter&logoColor=7DD3FC)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 ## ◈ Featured Projects
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<br/>
 
-### 🤖 AI Shopping Assistant Chatbot
-*Conversational AI · RAG · Recommendation*
+### &nbsp; ⚙️ &nbsp; Lightweight Analytics REST Service &nbsp;`Jan 2026`
 
-An intelligent, hallucination-free shopping assistant that handles multi-turn dialogue, asks clarifying questions before recommending, and summarizes real user reviews for honest product insights.
+> *Python · FastAPI · SQLAlchemy · Pydantic*
 
-**Architecture highlights:**
-- Hybrid content-based + collaborative filtering
-- RAG pipeline over product descriptions & reviews
-- LLM-powered review summarization
-- Persistent session memory for personalization
+Scalable event-capture backend that processes user interactions in real time and exposes clean aggregation endpoints, fully documented with Swagger UI.
 
-![Python](https://img.shields.io/badge/-Python-1c1c1e?style=flat-square&logo=python&logoColor=F5C842)
-![LangChain](https://img.shields.io/badge/-LangChain-1c1c1e?style=flat-square&logoColor=F5C842)
-![Vector DB](https://img.shields.io/badge/-Vector_DB-1c1c1e?style=flat-square&logoColor=F5C842)
-![LLMs](https://img.shields.io/badge/-LLMs-1c1c1e?style=flat-square&logoColor=F5C842)
+- 🔵 &nbsp;Async-first FastAPI routing for high-throughput event capture
+- 🔵 &nbsp;Strict schema validation via Pydantic models
+- 🔵 &nbsp;SQLAlchemy ORM for maintainable database interactions
+- 🔵 &nbsp;Real-time aggregation endpoints for event-level metrics
+- 🔵 &nbsp;Interactive Swagger docs for API exploration & testing
 
-</td>
-<td valign="top" width="50%">
+![Python](https://img.shields.io/badge/-Python-0A0F2E?style=flat-square&logo=python&logoColor=60A5FA)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0A0F2E?style=flat-square&logo=fastapi&logoColor=38BDF8)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-0A0F2E?style=flat-square&logoColor=7DD3FC)
+![Pydantic](https://img.shields.io/badge/-Pydantic-0A0F2E?style=flat-square&logoColor=BAE6FD)
 
-### 📈 SEO Ranking Prediction Model
-*Explainable AI · Hybrid ML · Generative AI*
+---
 
-An explainable hybrid model that predicts SEO performance and uses an LLM layer to generate human-readable, actionable content improvement strategies for non-technical users.
+### &nbsp; 📡 &nbsp; Multivariate Time Series Anomaly Detection &nbsp;`Jan 2026`
 
-**Architecture highlights:**
-- Ensemble ML model with SHAP-based explainability
-- LLM-generated strategy recommendations
-- Feature engineering from on-page SEO signals
-- Transparent, interpretable output layer
+> *Python · Scikit-learn · TensorFlow · LSTM*
 
-![Python](https://img.shields.io/badge/-Python-1c1c1e?style=flat-square&logo=python&logoColor=F5C842)
-![ML](https://img.shields.io/badge/-Machine_Learning-1c1c1e?style=flat-square&logoColor=F5C842)
-![XAI](https://img.shields.io/badge/-Explainable_AI-1c1c1e?style=flat-square&logoColor=F5C842)
+Anomaly detection system for industrial equipment sensor data — comparing Isolation Forest (traditional ML) vs. LSTM (deep learning) head-to-head.
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+- 🔷 &nbsp;Isolation Forest for fast, interpretable anomaly scoring
+- 🔷 &nbsp;LSTM networks to capture temporal sequence dependencies
+- 🔷 &nbsp;Sliding window + normalization preprocessing pipeline
+- 🔷 &nbsp;Feature engineering from raw multivariate sensor signals
+- 🔷 &nbsp;Side-by-side ML vs. DL comparison with full visualizations
 
-### 🎯 Technical Interview Simulator
-*LLMs · Backend Logic · NLP*
+![Python](https://img.shields.io/badge/-Python-0A0F2E?style=flat-square&logo=python&logoColor=60A5FA)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-0A0F2E?style=flat-square&logo=scikitlearn&logoColor=38BDF8)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0A0F2E?style=flat-square&logo=tensorflow&logoColor=7DD3FC)
 
-An AI-driven simulator that replicates real technical interview rounds — DSA, system design, and behavioral — with dynamic problem generation and intelligent feedback on code quality and approach.
+---
 
-**Architecture highlights:**
-- Adaptive difficulty across interview rounds
-- Real-time code analysis and structured feedback
-- Behavioral question module with tone detection
-- Session-level performance tracking
+### &nbsp; 🛒 &nbsp; Product Return Prediction Model &nbsp;`Sep 2025`
 
-![Python](https://img.shields.io/badge/-Python-1c1c1e?style=flat-square&logo=python&logoColor=F5C842)
-![LLMs](https://img.shields.io/badge/-LLMs-1c1c1e?style=flat-square&logoColor=F5C842)
-![NLP](https://img.shields.io/badge/-NLP-1c1c1e?style=flat-square&logoColor=F5C842)
+> *Python · Scikit-learn · Predictive Modeling*
 
-</td>
-<td valign="top" width="50%">
+End-to-end ML classification pipeline predicting e-commerce product returns — **89% accuracy** — with business-ready insight output.
 
-### ⚙️ In Progress — AI Agent Pipelines
-*Multi-Agent · MCP · Tool Use*
+- 🌀 &nbsp;Full pipeline: data cleaning → feature engineering → model training
+- 🌀 &nbsp;Class imbalance handled with appropriate resampling techniques
+- 🌀 &nbsp;Confusion matrix + classification report for robust evaluation
+- 🌀 &nbsp;Actionable business recommendations extracted from predictions
 
-Exploring production-grade multi-agent orchestration with CrewAI and AutoGen, and MCP-based tool-use systems for autonomous task execution across real-world APIs.
+![Python](https://img.shields.io/badge/-Python-0A0F2E?style=flat-square&logo=python&logoColor=60A5FA)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-0A0F2E?style=flat-square&logo=scikitlearn&logoColor=38BDF8)
+![Modeling](https://img.shields.io/badge/-Predictive_Modeling-0A0F2E?style=flat-square&logoColor=7DD3FC)
 
-**Exploring:**
-- Agent memory and planning architectures
-- Tool-use via Model Context Protocol (MCP)
-- RAG evaluation and hallucination benchmarking
-- Scalable async backend infrastructure
+---
 
-![CrewAI](https://img.shields.io/badge/-CrewAI-1c1c1e?style=flat-square&logoColor=F5C842)
-![AutoGen](https://img.shields.io/badge/-AutoGen-1c1c1e?style=flat-square&logoColor=F5C842)
-![MCP](https://img.shields.io/badge/-MCP-1c1c1e?style=flat-square&logoColor=F5C842)
+### &nbsp; 🤖 &nbsp; AI Shopping Assistant &nbsp;*(In Progress)*
 
-</td>
-</tr>
-</table>
+> *Python · LangChain · RAG · Vector DB · LLMs*
+
+Conversational chatbot with multi-turn memory, hallucination-free responses via RAG, hybrid product recommendations, and LLM-powered review summarization.
+
+- 💠 &nbsp;RAG pipeline grounded on product descriptions + user reviews
+- 💠 &nbsp;Hybrid content-based + collaborative filtering recommendations
+- 💠 &nbsp;Intelligent clarifying questions before surfacing suggestions
+- 💠 &nbsp;Persistent session memory across full dialogue turns
+
+![Python](https://img.shields.io/badge/-Python-0A0F2E?style=flat-square&logo=python&logoColor=60A5FA)
+![LangChain](https://img.shields.io/badge/-LangChain-0A0F2E?style=flat-square&logoColor=38BDF8)
+![RAG](https://img.shields.io/badge/-RAG-0A0F2E?style=flat-square&logoColor=7DD3FC)
+![Vector DB](https://img.shields.io/badge/-Vector_DB-0A0F2E?style=flat-square&logoColor=BAE6FD)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -163,54 +204,71 @@ Exploring production-grade multi-agent orchestration with CrewAI and AutoGen, an
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=NagaSathvik&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=F5C842&icon_color=F5C842&text_color=A0A0B0&include_all_commits=true&count_private=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=satvik1819&show_icons=true&hide_border=true&bg_color=0A0F2E&title_color=60A5FA&icon_color=38BDF8&text_color=BAE6FD&include_all_commits=true&count_private=true"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagaSathvik&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=F5C842&text_color=A0A0B0&langs_count=6" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik1819&layout=compact&hide_border=true&bg_color=0A0F2E&title_color=60A5FA&text_color=BAE6FD&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NagaSathvik&theme=dark&hide_border=true&background=0d0d0f&ring=F5C842&fire=F5C842&currStreakLabel=F5C842&sideLabels=A0A0B0&dates=A0A0B0&currStreakNum=F5F5F5&sideNums=F5F5F5" />
+<img width="68%" src="https://streak-stats.demolab.com?user=satvik1819&theme=dark&hide_border=true&background=0A0F2E&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=BAE6FD&dates=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE"/>
 
 </div>
 
----
+<div align="center">
 
-## ◈ What I'm Building Toward
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satvik1819&bg_color=0A0F2E&color=60A5FA&line=38BDF8&point=93C5FD&area=true&hide_border=true&area_color=0D1B4B" width="95%"/>
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   NOW       →   Ship production-grade AI Shopping Assistant          │
-│   NEXT      →   Multi-agent pipelines with real-world tool use       │
-│   GOAL      →   Build AI products that scale beyond prototypes       │
-│   OPEN TO   →   Internships · Collaborations · Research Projects     │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## ◈ Core Strengths
-
-| Domain | What I Bring |
-|---|---|
-| **Generative AI** | End-to-end LLM systems — RAG pipelines, agent design, prompt engineering, tool use via MCP |
-| **ML Engineering** | Feature engineering, hybrid model design, explainability (SHAP/LIME), recommendation systems |
-| **Backend Systems** | API design with FastAPI, scalable service architecture, async processing, REST best practices |
-| **Problem Solving** | Strong DSA foundation, system design thinking, comfort debugging deep in the stack |
-| **Product Mindset** | Ships complete projects — from dataset to deployed interface — not just model notebooks |
-
----
+## ◈ Achievements & Certifications
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" width="100%" />
+🏆 &nbsp;**Runner-up — Cederstrom Hackathon** &nbsp;·&nbsp; *Competed against 100+ teams, shipped a working prototype in 24 hours*
 
-*Let's build something intelligent.*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvikvedantham)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagasathvik19@gmail.com)
+[![GenAI](https://img.shields.io/badge/Fundamentals_of_Generative_AI-0A0F2E?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com)&nbsp;
+[![DSA](https://img.shields.io/badge/Data_Structures_with_C++-0A0F2E?style=for-the-badge&logo=geeksforgeeks&logoColor=38BDF8)](https://geeksforgeeks.org)
+
+[![Cloud](https://img.shields.io/badge/Cloud_Computing_Foundations-0A0F2E?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com)&nbsp;
+[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-0A0F2E?style=for-the-badge&logo=amazonaws&logoColor=7DD3FC)](https://aws.amazon.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## ◈ Training
+
+**Data Structures & Algorithms — GeeksforGeeks** &nbsp;`May 2024 – Jun 2024`
+
+> 8-week intensive covering arrays, linked lists, stacks, queues, trees, graphs, hashing, and dynamic programming — implemented in both C++ and Python with focus on time and space complexity.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:0A0F2E,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<br/>
+
+### *"Building intelligent systems, not just code."*
+
+<br/>
+
+[![Connect](https://img.shields.io/badge/Connect_on_LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=0A0F2E)](https://www.linkedin.com/in/sathvikvedantham/)&nbsp;&nbsp;
+[![Mail](https://img.shields.io/badge/Send_a_Mail-38BDF8?style=for-the-badge&logo=gmail&logoColor=0A0F2E)](mailto:nagasathvik19@gmail.com)
+
+<br/>
+
+*Open to opportunities — let's build something that matters.*
 
 </div>
