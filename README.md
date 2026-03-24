@@ -233,7 +233,7 @@ An 8-week intensive program covering the complete DSA spectrum — arrays, linke
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-### *"Build systems that THINK — not just execute."*
+### *"Building systems that can THINK "*
 
 <br/>
 
