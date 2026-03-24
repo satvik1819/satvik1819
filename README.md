@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=280&section=header&text=Naga%20Sathvik&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20GenAI%20Builder%20·%20Data%20Scientist&descSize=17&descAlignY=58&descColor=a78bfa&stroke=7c3aed&strokeWidth=2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=280&section=header&text=Naga%20Sathvik&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20GenAI%20Builder%20·%20Data%20Scientist&descSize=17&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvikvedantham/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagasathvik19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satvik1819)
-![Profile Views](https://komarev.com/ghpvc/?username=satvik1819&color=7c3aed&style=for-the-badge&label=Profile+Views)
+
 
 </div>
 
@@ -56,7 +56,7 @@ I'm open to roles in **AI/ML Engineering**, **Data Science**, and **Backend Engi
 
 ## 🛠️ &nbsp; Tech Stack
 
-> *Original brand colors — because tools deserve their identity.*
+> 
 
 <br/>
 
@@ -112,6 +112,21 @@ I'm open to roles in **AI/ML Engineering**, **Data Science**, and **Backend Engi
 ## 📂 &nbsp; Featured Projects
 
 <br/>
+ 🤖 &nbsp; AI Shopping Assistant &nbsp;`Curently Working`
+
+> **Python · LangChain · RAG · Vector DB · LLMs**
+
+A conversational shopping agent that goes far beyond keyword search. It grounds every response in a **RAG pipeline** built over product descriptions and user reviews — eliminating hallucinations and anchoring recommendations in real data.
+
+The system combines **hybrid recommendations** (content-based + collaborative filtering), asks intelligent clarifying questions before surfacing results, and maintains **persistent session memory** across multi-turn dialogues. The end goal: a shopping companion that *understands context*, not just queries.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+<br/>
+
+---
 
 ### ⚙️ &nbsp; Lightweight Analytics REST Service &nbsp;`Jan 2026`
 
@@ -153,23 +168,8 @@ The pipeline spans data cleaning, feature engineering, class imbalance handling 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
----
-
-### 🤖 &nbsp; AI Shopping Assistant &nbsp;`In Progress`
-
-> **Python · LangChain · RAG · Vector DB · LLMs**
-
-A conversational shopping agent that goes far beyond keyword search. It grounds every response in a **RAG pipeline** built over product descriptions and user reviews — eliminating hallucinations and anchoring recommendations in real data.
-
-The system combines **hybrid recommendations** (content-based + collaborative filtering), asks intelligent clarifying questions before surfacing results, and maintains **persistent session memory** across multi-turn dialogues. The end goal: a shopping companion that *understands context*, not just queries.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD343)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ---
 
@@ -199,7 +199,7 @@ The system combines **hybrid recommendations** (content-based + collaborative fi
 
 ---
 
-## 🏆 &nbsp; Achievements & Certifications
+## 🏆 &nbsp; Achievements 
 
 <br/>
 
@@ -207,6 +207,10 @@ The system combines **hybrid recommendations** (content-based + collaborative fi
 Competed against 100+ teams across a 24-hour sprint. Designed, built, and shipped a working prototype from scratch — under real time pressure, with real judging criteria.
 
 <br/>
+
+---
+
+## 📑 &nbsp;  Certifications
 
 [![GenAI](https://img.shields.io/badge/Fundamentals_of_Generative_AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)&nbsp;
 [![DSA](https://img.shields.io/badge/Data_Structures_with_C++-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)&nbsp;
